@@ -1,4 +1,3 @@
-```markdown
 # 🧸 Kids Health — Pediatric Constipation Care
 
 <p align="center">
