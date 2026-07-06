@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your actual app icon path once uploaded -->
-   <img src="screenshots/7.jpg" width="200" alt=""/>
+   <img src="screenshots/7.webp" width="200" alt=""/>
 </p>
 
 <p align="center">
