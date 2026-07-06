@@ -54,10 +54,12 @@ This project was professionally and knowledge-driven, designed and developed uti
 
 <p align="center">
   <!-- Replace placeholders with your actual screenshots -->
-  <img src="screenshots/home.png" width="200" alt="Home Screen"/>
-  <img src="screenshots/education.png" width="200" alt="Educational Content"/>
-  <img src="screenshots/tracker.png" width="200" alt="Habit Tracker"/>
-  <img src="screenshots/settings.png" width="200" alt="Settings"/>
+  <img src="screenshots/1.jpg" width="200" alt=""/>
+  <img src="screenshots/2.jpg" width="200" alt=""/>
+  <img src="screenshots/3.jpg" width="200" alt=""/>
+  <img src="screenshots/4.jpg" width="200" alt=""/>
+  <img src="screenshots/5.jpg" width="200" alt=""/>
+  <img src="screenshots/6.jpg" width="200" alt=""/>
 </p>
 
 ---
